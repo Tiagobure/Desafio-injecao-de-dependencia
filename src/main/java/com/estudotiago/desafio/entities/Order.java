@@ -29,7 +29,7 @@ public class Order {
 	}
 
 	public Double getDiscount() {
-		return discount;
+		return discount ;
 	}
 
 	public void setDiscount(Double discount) {
